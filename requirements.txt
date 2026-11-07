@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+rapidfuzz
+google-genai
+python-dotenv
