@@ -1,5 +1,5 @@
-pyTelegramBotAPI
-rapidfuzz
-google-genai
-python-dotenv
-database
+
+pyTelegramBotAPI>=4.20.0
+google-genai>=1.0.0
+python-dotenv>=1.0.1
+rapidfuzz>=3.9.0
